@@ -36,11 +36,11 @@ const Help = () => {
                     <div className="column">
                         <div className="ui segment">
                             <h2>HELPLINE NUMBER</h2>
-                            <h4>Shreyoshi Roy</h4>
-                            <a>+91 8237264657</a> <br/>
+                            <h4>Shreyoshi Neman</h4>
+                            <a>+91 7972867538</a> <br/>
                             <a>shreyoshi@gmail.com</a>
-                            <h4>Zaid khan</h4>
-                            <a>+91 8237264657</a> <br/>
+                            <h4>Ashish Chintalathadem</h4>
+                            <a>+91 9959850106</a> <br/>
                             <a>shreyoshi@gmail.com</a>
                         </div>
                     </div>
@@ -49,9 +49,9 @@ const Help = () => {
                             <h2>BUSINESS RELATED</h2>
                             <p>Dazzle_AS Lighting</p>
                             <h4>Comapny Number</h4>
-                            <a>+91 8237264657</a>
+                            <a>+91 7972867538</a>
                             <h4>Comapny email</h4>
-                            <a>@ifon.com</a>
+                            <a>dazzleAS518@gmail.com</a>
                         </div>
                     </div>
                 </div>

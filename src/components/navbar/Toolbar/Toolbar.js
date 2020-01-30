@@ -33,13 +33,10 @@ const toolbar = props => (
             <a style={{color: "white"}}>SHOP BY CATEGORY</a>
             <i class="dropdown icon"></i>
                 <div class="menu">
-                  <div class="item"> <Link to="#"> LED Light 1 </Link></div> 
-                  <div class="item"> <Link to="#"> LED Light 2  </Link></div> 
-                  <div class="item"> <Link to="#"> LED Light 3 </Link></div> 
-                  <div class="item"> <Link to="#"> LED Light 4 </Link></div> 
-                  <div class="item"> <Link to="#"> LED Light 5 </Link></div> 
-                  <div class="item"> <Link to="#"> LED Light 6 </Link></div> 
-                  <div class="item"> <Link to="#"> LED Light 7 </Link></div> 
+                  <div class="item"> <Link to="/bulb"> LED BULB'S </Link></div> 
+                  <div class="item"> <Link to="/tubelight"> LED TUBE LIGHT'S  </Link></div> 
+                  <div class="item"> <Link to="/panellight"> LED PANEL LIGHT'S  </Link></div> 
+                  <div class="item"> <Link to="/floodlight"> LED FLOOD LIGHT'S </Link></div>
                 </div>
               </div>
 

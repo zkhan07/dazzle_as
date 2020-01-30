@@ -27,11 +27,15 @@ const tutorialSteps = [
   },
   {
     imgPath:
-      '\s4.jpg',
+      '\s10.jpg',
   },
   {
     imgPath:
-      '\s5.jpg',
+      '\s7.jpeg',
+  },
+  {
+    imgPath:
+      '\s8.jpg',
   },
 ];
 

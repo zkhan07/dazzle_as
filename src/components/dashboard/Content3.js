@@ -7,8 +7,12 @@ const Content3 = () => {
 
             <br/>
             <div className="ui container center aligned">
-                <h1>LATEST PRODUCTS FOR SALES</h1> <br/><br/>
-            <div className="two column ui grid">
+                <div className="ui black stacked segment">
+                    <h1>LATEST PRODUCTS FOR SALES</h1> 
+                </div>
+                <br/><br/>
+                
+                <div className="two column ui grid">
 
                 <div className="four wide column">
                 <div className="ui segment">

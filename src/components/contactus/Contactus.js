@@ -4,7 +4,7 @@ import Footer from "../dashboard/Footer";
 
 const Contactus = () => {
     return(
-        <div className="cont">
+        <div>
             <Navbar />
 
             <br/><br/>
@@ -66,6 +66,7 @@ const Contactus = () => {
                     </div>
                     <button class="ui black button" type="submit"> Submit </button>
                     </form>
+                    <br/><br/>
                     </div>
                     </div>
 
@@ -74,15 +75,13 @@ const Contactus = () => {
                         <div className="ui fluid segment">
                         <div className="item">
                             <i className="home large icon"></i>
-                            <h3>133 Santina Parde Ellluk,
-                            Vantu House, Port Vila Efate,
-                            Vanuatu</h3>
+                            <h3>Adress is not available</h3>
                         </div> <br/>
                         <div className="item">
-                        <i className="phone large icon"></i> <h3>+1 727 451 9982</h3>
+                        <i className="phone large icon"></i> <h3>+91 7972867538</h3> <br/> <h3>+91 9959850106</h3>
                         </div> <br/><br/>
                         <div className="item">
-                        <i className="mail large  icon"></i> <h3>info@profit4money.com</h3> 
+                        <i className="mail large  icon"></i> <h3>dazzleAS518@gmail.com</h3> 
                         </div>
                         </div>
                     </div>

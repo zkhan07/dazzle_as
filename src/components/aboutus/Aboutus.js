@@ -45,7 +45,7 @@ const Aboutus = () => {
                     </div>
                     <div className="column">
                         <div className="item">
-                            <h1>Shreyoshi Roy</h1>
+                            <h1>Shreyoshi Neman</h1>
                             <p>Dazzle_AS support team is there to assist you round the clock. Our support team members are dedicated to helping clients and clarify their doubts in no time. Contact us through email, phone or chat anytime, Our FAQs also offer you useful information to some extent.</p> <br/>
                             <p>Dazzle_AS support team is there to assist you round the clock. Our support team members are dedicated to helping clients and clarify their doubts in no time. Contact us through email, phone or chat anytime, Our FAQs also offer you useful information to some extent.</p> <br/>
                             <p>Dazzle_AS support team is there to assist you round the clock. Our support team members are dedicated to helping clients and clarify their doubts in no time. Contact us through email, phone or chat anytime, Our FAQs also offer you useful information to some extent.</p> <br/>
@@ -65,7 +65,7 @@ const Aboutus = () => {
                     </div>
                     <div className="column">
                         <div className="item">
-                            <h1>Zaid khan</h1>
+                            <h1>Ashish Chintalathadem</h1>
                             <p>Dazzle_AS support team is there to assist you round the clock. Our support team members are dedicated to helping clients and clarify their doubts in no time. Contact us through email, phone or chat anytime, Our FAQs also offer you useful information to some extent.</p> <br/>
                             <p>Dazzle_AS support team is there to assist you round the clock. Our support team members are dedicated to helping clients and clarify their doubts in no time. Contact us through email, phone or chat anytime, Our FAQs also offer you useful information to some extent.</p> <br/>
                             <p>Dazzle_AS support team is there to assist you round the clock. Our support team members are dedicated to helping clients and clarify their doubts in no time. Contact us through email, phone or chat anytime, Our FAQs also offer you useful information to some extent.</p> <br/>

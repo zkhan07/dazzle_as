@@ -10,7 +10,10 @@ const Content2 = () => {
 
 
             <div className="ui container center aligned">
-            <h1>EXPLORE OUR RANGE OF LIGHTNING SOLUTIONS</h1> <br/><br/>
+                <div className="ui black stacked segment">
+                    <h1>EXPLORE OUR RANGE OF LIGHTNING SOLUTIONS</h1>
+                </div>
+                 <br/><br/>
                 <div className="doubling ui four column grid">
                     <div className="column center aligned">
                        <div className="ui segment">

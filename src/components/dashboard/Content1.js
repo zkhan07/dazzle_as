@@ -10,7 +10,11 @@ const Content1 = () => {
 
 
             <div className="ui container center aligned">
-                <h1>OUR PRODUCTS</h1> <br/>
+                <div className="ui black stacked segment">
+                    <h1>OUR PRODUCTS</h1>
+                </div>
+
+                 <br/>
                 <div className="doubling stackable ui two column grid">
                     <div className="column center aligned">
                        <div className="ui segment">
@@ -63,7 +67,10 @@ const Content1 = () => {
             <br/><br/><br/>
 
             <div className="ui container center aligned">
-                <h1>NEW ARRIVALS</h1> <br/>
+                <div className="ui black stacked segment">
+                    <h1>NEW ARRIVALS</h1>
+                </div>
+                 <br/>
                 <div className="doubling stackable ui four column grid">
                     <div className="column center aligned">
                        <div className="ui segment">
